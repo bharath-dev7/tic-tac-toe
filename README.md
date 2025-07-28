@@ -23,4 +23,4 @@ Enjoy the nostalgic look and challenge your friends!
 Background image inspired by pixel-art landscapes.
 
 ---
-Thank you for checking out my
+Thank you for checking out my project!

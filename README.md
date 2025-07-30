@@ -24,3 +24,5 @@ Background image inspired by pixel-art landscapes.
 
 ---
 Thank you for checking out my project!
+## To Play
+https://bharath-dev7.github.io/tic-tac-toe/

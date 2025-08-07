@@ -17,6 +17,8 @@ I created this project to learn the basics of programming, version control, and 
 
 Clone the repository and run the game to start playing.  
 Enjoy the nostalgic look and challenge your friends!
+## or To Play online now
+https://bharath-dev7.github.io/tic-tac-toe/
 
 ## Credits
 
@@ -24,5 +26,3 @@ Background image inspired by pixel-art landscapes.
 
 ---
 Thank you for checking out my project!
-## To Play
-https://bharath-dev7.github.io/tic-tac-toe/
